@@ -1,5 +1,5 @@
 FROM nginx
-MAINTAINER hugo@katahugo.com
+MAINTAINER resha@braco.com
 
 ADD index.html /usr/share/nginx/html/
 
